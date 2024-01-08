@@ -1,0 +1,27 @@
+# Unity generated files
+Library/
+Temp/
+obj/
+Build/
+
+# Visual Studio Code generated files
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.lock
+
+# Auto-generated Unity files
+*.pidb.meta
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+.directory
